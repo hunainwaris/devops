@@ -1,3 +1,0 @@
-name: test
-password:test
-address:test
